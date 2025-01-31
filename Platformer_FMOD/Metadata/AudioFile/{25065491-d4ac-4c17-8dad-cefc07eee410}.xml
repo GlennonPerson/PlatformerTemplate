@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{25065491-d4ac-4c17-8dad-cefc07eee410}">
+		<property name="assetPath">
+			<value>Rec-25.01.28-16h55m12s.aif</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>140.67809523809524</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{31dcaa72-3ecd-4eac-a52a-b94ff484740f}</destination>
+		</relationship>
+	</object>
+</objects>
